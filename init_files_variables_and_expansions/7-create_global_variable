@@ -1,2 +1,2 @@
 #!/bin/bash
-env -i BEST=School
+export BEST=School
